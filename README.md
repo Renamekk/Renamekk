@@ -37,8 +37,6 @@ class Developer:
             "High-performance React applications",
             "Intelligent automation"
         ]
-        self.current_project = "Offline AI voice assistant"
-        self.learning = "Advanced neural network architectures"
     
     def say_hi(self):
         print("Building the future, one commit at a time.")
@@ -206,9 +204,8 @@ python simulations/neural_viz.py --interactive
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Renamekk-000000?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Renamekk)
-[![Email](https://img.shields.io/badge/Email-YOUR__EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00bfff)](mailto:YOUR_EMAIL)
-[![Telegram](https://img.shields.io/badge/Telegram-YOUR__TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=1e90ff)](https://t.me/YOUR_TELEGRAM)
-[![Discord](https://img.shields.io/badge/Discord-YOUR__DISCORD-000000?style=for-the-badge&logo=discord&logoColor=00ffff)](https://discord.com/users/YOUR_DISCORD)
+[![Telegram](https://img.shields.io/badge/Telegram-@ne7ay-000000?style=for-the-badge&logo=telegram&logoColor=1e90ff)](https://t.me/@ne7ay)
+[![Discord](https://img.shields.io/badge/Discord-Isagiko0-000000?style=for-the-badge&logo=discord&logoColor=00ffff)](https://discord.com/users/Isagiko0)
 
 </div>
 
@@ -221,7 +218,5 @@ python simulations/neural_viz.py --interactive
 **"Code is structured thought."**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-![Visitor Count](https://profile-counter.glitch.me/Renamekk/count.svg)
 
 </div>
