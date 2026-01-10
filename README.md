@@ -1,213 +1,227 @@
-## 🤝 Let's Connect
-
-<div align="center">
-
-<p>
-  <a href="https://github.com/Renamekk">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-blueviolet?style=for-the-badge" />
-</p>
-
-### 💭 "Code is poetry written in logic"
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
-
-</div>
-
-
 <!-- Replace placeholders: YOUR_EMAIL, YOUR_TELEGRAM, YOUR_DISCORD -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0033,100:1a1a1a&height=200&section=header&text=Renamekk&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Working%20from%20home&descAlignY=55&descSize=20" />
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Renamekk&fontSize=80&fontColor=00ffff&animation=twinkling&fontAlignY=35" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Working+from+home;Building+offline-first+systems;AI+%26+Neural+Networks;High-performance+applications" alt="Typing SVG" /></a>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&random=false&width=600&lines=Building+offline-first+solutions;AI+%26+neural+network+experiments;Crafting+fast+React+applications;Automation+%2B+Intelligence)](https://git.io/typing-svg)
+<!-- Tagline -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Code is structured thought. Privacy is power. Offline is freedom.**
 
 </div>
 
-## 🎯 About Me
+---
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 ```python
 class Developer:
     def __init__(self):
         self.username = "Renamekk"
-        self.focus = ["offline-first apps", "privacy", "AI/neural networks"]
-        self.current_work = "Working from home"
-        self.interests = {
-            "AI": "voice assistants, neural simulations",
-            "frontend": "blazing-fast React applications",
-            "backend": "real-time systems, automation",
-            "research": "mathematical simulations, privacy tech"
-        }
+        self.location = "Remote"
+        self.focus = [
+            "Offline-first applications",
+            "Privacy-focused systems",
+            "Artificial Intelligence & neural networks",
+            "Mathematical simulations",
+            "High-performance React applications",
+            "Intelligent automation"
+        ]
+        self.current_project = "Offline AI voice assistant"
+        self.learning = "Advanced neural network architectures"
     
     def say_hi(self):
-        print("Building intelligent systems that work anywhere, anytime.")
+        print("Building the future, one commit at a time.")
 
 me = Developer()
 me.say_hi()
 ```
 
-<br/>
+- 🔒 **Privacy advocate** — building offline-first, privacy-respecting applications
+- 🧠 **AI enthusiast** — exploring neural networks, deep learning, and intelligent systems
+- 🎯 **Performance-focused** — optimizing React apps and backend systems
+- 🔬 **Math & simulations** — creating educational tools for complex visualizations
+- 🤖 **Automation lover** — building systems that think and act independently
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
 
 <div align="center">
 
-## ⚡ Tech Arsenal
-
 ### Languages
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0033)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0033)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF0033)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FF0033)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=1e90ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00bfff)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ffff)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF0033)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF0033)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF0033)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00bfff)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=1e90ff)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ffff)
 
 ### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FF0033)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0033)
-![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=socketdotio&logoColor=FF0033)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00bfff)
+![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=socketdotio&logoColor=00ffff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=1e90ff)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00bfff)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ffff)
 
 </div>
 
-<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🚀 Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🎙️ Voice-Assistant
+### 🎤 Voice-Assistant
 **Offline AI Voice Assistant**
 
-Fully offline speech recognition system built with Python. No cloud dependencies, complete privacy.
+Fully offline Python-based voice assistant with local speech recognition and intelligent command processing.
 
-**Features:**
-- 🔒 100% offline speech recognition
-- 🤖 Custom command processing
-- ⚡ Real-time response
-- 🔐 Privacy-first architecture
+**Key Features:**
+- 🔒 100% offline operation
+- 🎯 Custom command system
+- 🗣️ Local speech recognition
+- ⚡ Fast response time
+- 🛡️ Privacy-first design
 
-[**→ View Repository**](https://github.com/Renamekk/Voice-Assistant)
+<a href="https://github.com/Renamekk/Voice-Assistant">
+  <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=00ffff" />
+</a>
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
 ### 🧠 Neuron
-**Neural Network Experiments**
+**Neural Network Simulations**
 
-Educational neural network playground with real-time training visualization and interactive experiments.
+Educational platform for neural network visualization, neuron behavior simulation, and learning algorithm exploration.
 
-**Features:**
-- 📊 Training visualization
-- 🎓 Educational focus
-- 🔬 Neural network experiments
-- 📈 Performance analytics
+**Key Features:**
+- 📊 Real-time visualizations
+- 🔬 Mathematical accuracy
+- 🎓 Educational experiments
+- 🎨 Interactive learning
+- ⚙️ Customizable networks
 
-[**→ View Repository**](https://github.com/Renamekk/Neuron)
+<a href="https://github.com/Renamekk/Neuron">
+  <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=00bfff" />
+</a>
 
 </td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
+<td width="33%" valign="top">
 
 ### 💬 online-chat
-**Real-time Chat Application**
+**Real-Time Chat Application**
 
-Modern real-time chat with React frontend, Node.js backend, and WebSocket communication.
+Modern chat application built with React, Node.js, and WebSockets for instant messaging.
 
-**Features:**
-- ⚡ Real-time messaging via WebSocket
-- 🎨 Modern React UI
-- 🔄 Live updates
-- 🛠️ Node.js backend
+**Key Features:**
+- ⚡ Real-time messaging
+- 🌐 WebSocket integration
+- ⚛️ React frontend
+- 🔧 Node.js backend
+- 🎨 Modern UI/UX
 
-[**→ View Repository**](https://github.com/Renamekk/online-chat)
+<a href="https://github.com/Renamekk/online-chat">
+  <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=1e90ff" />
+</a>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🔥 What I'm Doing Now
-
-- 🤖 Developing **offline AI voice assistants** with zero cloud dependencies
-- 🧪 Experimenting with **neural networks** and mathematical simulations
-- ⚡ Building **blazing-fast React applications** with optimal performance
-- 🔐 Creating **offline-first solutions** prioritizing privacy and autonomy
-- 🛠️ Exploring **automation + intelligence** to solve real-world problems
-
-<br/>
-
-## ⚙️ Quick Commands
-
-```bash
-# Train neural network
-python neuron/train.py --offline --visualize
-
-# Run voice assistant
-python voice_assistant/main.py --mode offline
-
-# Start chat server
-npm run dev --project online-chat
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> What I'm Working On
+```typescript
+const currentFocus = {
+  primary: "Offline AI voice assistant with neural command processing",
+  research: "Advanced neural network architectures & training optimization",
+  development: "High-performance React applications with minimal dependencies",
+  exploration: "Mathematical simulations for educational purposes",
+  learning: "Privacy-preserving ML techniques & federated learning"
+};
 ```
 
-<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renamekk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00bfff&text_color=ffffff&ring_color=00ffff&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renamekk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renamekk&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ffff&ring=00bfff&fire=1e90ff&currStreakLabel=00ffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=00bfff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renamekk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffff&line=00bfff&point=1e90ff&area=true&area_color=00bfff"/>
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## ⚡ Quick Commands
+```bash
+# Train neural network
+python neuron/train.py --epochs 100 --offline
+
+# Start voice assistant
+python voice_assistant/main.py --mode offline
+
+# Run chat server
+npm run server
+
+# Build React app (optimized)
+npm run build --production
+
+# Run mathematical simulation
+python simulations/neural_viz.py --interactive
+```
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Renamekk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0033&icon_color=ff0033&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Renamekk&theme=radical&hide_border=true&background=0d1117&ring=ff0033&fire=ff0033&currStreakLabel=ff0033" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renamekk&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0033&text_color=ffffff" />
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Renamekk&theme=react-dark&bg_color=0d1117&color=ff0033&line=ff0033&point=ffffff&area=true&hide_border=true)](https://github.com/Renamekk)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![GitHub](https://img.shields.io/badge/GitHub-Renamekk-000000?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Renamekk)
+[![Email](https://img.shields.io/badge/Email-YOUR__EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00bfff)](mailto:YOUR_EMAIL)
+[![Telegram](https://img.shields.io/badge/Telegram-YOUR__TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=1e90ff)](https://t.me/YOUR_TELEGRAM)
+[![Discord](https://img.shields.io/badge/Discord-YOUR__DISCORD-000000?style=for-the-badge&logo=discord&logoColor=00ffff)](https://discord.com/users/YOUR_DISCORD)
 
 </div>
 
-<br/>
-
-## 🤝 Let's Connect
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0033)](https://github.com/Renamekk)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FF0033)](https://t.me/YOUR_TELEGRAM)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF0033)](https://discord.com/users/YOUR_DISCORD)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0033)](mailto:YOUR_EMAIL)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
 
-</div>
+**"Code is structured thought."**
 
-<br/>
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<div align="center">
-
-### *"Code is poetry written in logic"*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:ff0033&height=120&section=footer" />
+![Visitor Count](https://profile-counter.glitch.me/Renamekk/count.svg)
 
 </div>
