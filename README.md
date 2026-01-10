@@ -1,32 +1,3 @@
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Renamekk&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
-
-## 🎯 Quick Commands
-
-```bash
-# 🐍 Python projects
-python main.py
-
-# 🌐 Frontend development
-npm install
-npm run dev
-
-# 🤖 AI experiments
-pip install -r requirements.txt
-python train.py
-
-# 🚀 Deploy to production
-npm run build
-```
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
