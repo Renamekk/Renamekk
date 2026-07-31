@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Animated cosmic signal divider">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0" />
+      <stop offset=".22" stop-color="#8b5cf6" stop-opacity=".5" />
+      <stop offset=".5" stop-color="#e879f9" />
+      <stop offset=".78" stop-color="#8b5cf6" stop-opacity=".5" />
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="core">
+      <stop offset="0" stop-color="#f5d0fe" />
+      <stop offset=".45" stop-color="#a855f7" />
+      <stop offset="1" stop-color="#3b0764" />
+    </radialGradient>
+    <filter id="glow" x="-300%" y="-300%" width="700%" height="700%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <path id="signalPath" d="M70 60H1130" />
+  </defs>
+
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      animate,
+      animateMotion,
+      animateTransform {
+        display: none;
+      }
+    }
+  </style>
+
+  <path d="M70 60H1130" stroke="url(#line)" stroke-width="2" />
+  <path d="M375 60c58-32 392-32 450 0-58 32-392 32-450 0Z" fill="none" stroke="#8b5cf6" stroke-width="1" opacity=".48" stroke-dasharray="5 9">
+    <animate attributeName="stroke-dashoffset" from="0" to="-84" dur="9s" repeatCount="indefinite" />
+  </path>
+
+  <g transform="translate(600 60)">
+    <ellipse rx="55" ry="13" fill="none" stroke="#c4b5fd" stroke-width="1.1" opacity=".6">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite" />
+    </ellipse>
+    <circle r="13" fill="url(#core)" filter="url(#glow)">
+      <animate attributeName="r" values="11;14;11" dur="3.2s" repeatCount="indefinite" />
+    </circle>
+    <circle r="25" fill="none" stroke="#c084fc" stroke-width="1" opacity=".5">
+      <animate attributeName="r" values="15;31;15" dur="3.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values=".6;0;.6" dur="3.2s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <g filter="url(#glow)">
+    <circle r="2.8" fill="#ddd6fe">
+      <animateMotion dur="6s" repeatCount="indefinite">
+        <mpath href="#signalPath" />
+      </animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.88;1" dur="6s" repeatCount="indefinite" />
+    </circle>
+    <circle r="2" fill="#e879f9">
+      <animateMotion dur="7.5s" begin="-4s" repeatCount="indefinite">
+        <mpath href="#signalPath" />
+      </animateMotion>
+      <animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.12;.88;1" dur="7.5s" begin="-4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <g fill="#c4b5fd" filter="url(#glow)">
+    <circle cx="265" cy="60" r="1.5">
+      <animate attributeName="opacity" values=".2;1;.2" dur="3.9s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="934" cy="60" r="1.5">
+      <animate attributeName="opacity" values="1;.2;1" dur="4.7s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>
